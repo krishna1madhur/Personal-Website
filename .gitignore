@@ -1,7 +1,7 @@
 .classpath
 .project
 build.gradle
-nbactions
+nbactions.xml
 target
 eclipse-launch-profiles
 .settings
